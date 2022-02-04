@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tanyaxin
+- 👀 I’m interested in cat
+- 🌱 I’m currently learning coding
